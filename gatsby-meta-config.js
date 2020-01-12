@@ -2,7 +2,7 @@ module.exports = {
   title: `Raccoon's devlog`,
   description: ``,
   author: `miiiiiin`,
-  introduction: `이것저것 삽질합이것저것 삽질합니다`,
+  introduction: `이것저것 삽질합니다`,
   siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
