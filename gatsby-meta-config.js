@@ -3,10 +3,10 @@ module.exports = {
   description: ``,
   author: `miiiiiin`,
   introduction: `이것저것 삽질합니다`,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  siteUrl: `https://miiiiiin.netlify.com/`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: `https://github.com/miiiiiin`, // Your GitHub account
+    github: `miiiiiin`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
   },
@@ -14,13 +14,13 @@ module.exports = {
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: 'JaeYeopHan/gatsby-starter-bee', // Your repository for archive comment
+    utterances: 'miiiiiin/Blog', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: 'jbee',
+    buyMeACoffeeId: '',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2

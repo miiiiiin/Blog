@@ -64,8 +64,16 @@ sudo codesign -f -s XcodeSigner /Applications/Xcode.app
 
 재실행 시 Unexpected code Bundle "XVim2.xcplugin"이라는 창이 뜨면 Load Bundle을 선택해준다.
 
+-> 적용화면
+
+![](./images/1-6.png)
 
 
 
 
 
+
+
+* 참고
+
+[https://medium.com/@suatkarakusoglu/vim-in-xcode-xvim2-55437accdd4b?](https://medium.com/@suatkarakusoglu/vim-in-xcode-xvim2-55437accdd4b?)
